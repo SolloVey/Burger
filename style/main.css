@@ -4,7 +4,7 @@
 }
 body {
     font-family: 'Nunito Sans', sans-serif;
-    /*overflow-x: hidden;*/
+    overflow-x: hidden;
 }
 .main {
     background: linear-gradient(180deg, #0C4C7B -100%, #1E2F40 100%);
